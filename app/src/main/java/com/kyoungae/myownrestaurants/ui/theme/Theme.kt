@@ -1,4 +1,4 @@
-package com.kyoungae.myownreastaurant.ui.theme
+package com.kyoungae.myownrestaurants.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

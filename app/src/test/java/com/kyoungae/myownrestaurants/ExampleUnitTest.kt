@@ -1,4 +1,4 @@
-package com.kyoungae.myownreastaurant
+package com.kyoungae.myownrestaurants
 
 import org.junit.Test
 
